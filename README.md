@@ -10,7 +10,7 @@
 
 ## 1 Env 
 
-**ubuntu20.04、Omniverse Launcher-1.9.8、Isaac-Sim-2022.2.1**
+**ubuntu20.04、Omniverse Launcher-1.9.8、Isaac-Sim-(2022.2.1 & 2023.1.1)**
 
 
 ## 2 Start [Omniverse](https://developer.nvidia.com/isaac-sim)
